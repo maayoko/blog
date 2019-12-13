@@ -10,6 +10,8 @@
 
 Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b1208abf-e779-4e23-8d43-9f14a868311b/deploy-status)](https://app.netlify.com/sites/ivanivicek/deploys)
+
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
